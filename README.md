@@ -1,12 +1,8 @@
 ## Olá, eu sou a Sarah👋
 
-Curso Ciência da Computação e atualmente estudo programação, desenvolvimento de software e tecnologia em geral.
+Atualmente curso Ciência da Computação e estou estudando programação, desenvolvimento de software e tecnologia em geral. Aqui no GitHub pretendo compartilhar meus projetos, estudos, experiências e trabalhos ao longo da minha evolução como desenvolvedora.
 
-## ☕ Tecnologias
-- Java
-- HTML
-- CSS
-- JavaScript
+## ☕ Tecnologias que venho utilizando: • Java • HTML • CSS • JavaScript
 
 ## 📚 Atualmente estudando
 - Orientação a Objetos
