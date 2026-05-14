@@ -1,16 +1,19 @@
-## Hi there 👋
+## Olá, eu sou a Sarah👋
 
 <!--
 **SarahAndreassa/SarahAndreassa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Curso Ciência da Computação e atualmente estudo programação, desenvolvimento de software e tecnologia em geral.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ☕ Tecnologias
+- Java
+- HTML
+- CSS
+- JavaScript
+
+## 📚 Atualmente estudando
+- Orientação a Objetos
+- Estruturas de Dados
+- Desenvolvimento Web
+
+Aqui compartilho meus projetos, estudos e minha evolução como desenvolvedora.
