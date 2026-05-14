@@ -1,8 +1,5 @@
 ## Olá, eu sou a Sarah👋
 
-<!--
-**SarahAndreassa/SarahAndreassa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Curso Ciência da Computação e atualmente estudo programação, desenvolvimento de software e tecnologia em geral.
 
 ## ☕ Tecnologias
