@@ -16,10 +16,27 @@ Estudante de Ciência da Computação (Anhembi Morumbi) em busca de estágio em 
 - Apache Kafka
 
 ## 📚 Atualmente estudando
+
+*Fundamentos*
 - Orientação a Objetos
 - Estruturas de Dados
-- Desenvolvimento Web (Front-end e Back-end)
 - Arquitetura de dados e processamento de eventos
+
+*Front-end*
+- Node, npm e ferramentas do front-end
+- React
+- Vue.js
+
+*Back-end*
+- PHP 7.x
+- SQL: comunicação com o banco de dados
+- MVC e frameworks legados
+- Composer
+- APIs RESTful
+
+*Boas práticas*
+- Entendimento e refatoração de código legado
+- Git
 
 ## 🌎 Idiomas
 Português (nativo) • Inglês (avançado) • Espanhol (intermediário)
